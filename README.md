@@ -1,6 +1,6 @@
 # PrivEdge
 
-This is the official repository of [PrivEdge: From Local to Distributed Private Training and Prediction](https://arxiv.org/pdf/2004.05574.pdf), a work published in the EEE Transactions on Information Forensics and Security (TIFS), April, 2020.<br>
+This is the official repository of [PrivEdge: From Local to Distributed Private Training and Prediction](https://arxiv.org/pdf/2004.05574.pdf), a work published in the IEEE Transactions on Information Forensics and Security (TIFS), April, 2020.<br>
 
 ## Setup
 
